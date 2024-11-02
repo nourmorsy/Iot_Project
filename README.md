@@ -2,9 +2,11 @@
 
 ## Project Overview
 
-This project aims to build a real-time IoT monitoring application using an ESP32 microcontroller to capture data from sensors, which is then visualized and analyzed using Python's Tkinter. The data is sent and stored in a Firebase database, making it accessible for immediate analysis, monitoring, and predictive modeling using machine learning.
-[](./diagram.png)
+This project aims to build a real-time IoT monitoring application using an ESP32 microcontroller to capture data from sensors, which is then visualized and analyzed using Python's Tkinter. The data is sent and stored in a Firebase database, making it accessible for immediate analysis, monitoring, and predictive modeling using machine learning. 
 
+<img src="./diagram.png" alt="System Architecture" width="500" height="300">
+
+---
 
 ## Features
 
